@@ -1,0 +1,12 @@
+
+# Crate game
+[ create game ] -> [ understand game ], [ R:create version ]
+
+[ understand game ] -> [ observe game], [ play game ]
+[ R:create version ] -> [ create design ], [ create program ], [ reflect ]
+
+[ create design ] -> [ understand version ], [ create version test plan ], [ create algorithm ]
+[ understand version ] -> [ observe game version ], [ play game version ], [ create version description ]
+
+[ create program:R ] -> [ write code ], [ test code ], [ debug code ]
+[ reflect ] -> [ review code ], [ reflection activity ], [ identify solution issues ]

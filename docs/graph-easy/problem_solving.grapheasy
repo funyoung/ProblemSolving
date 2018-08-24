@@ -1,0 +1,19 @@
+# https://www.jianshu.com/p/19432b5e3c60
+# https://or2.in/2017/05/02/graph-easy-ascii/
+# Line Styles
+# ->    实线
+# =>    双实线
+# .>    点线
+# ~>    波浪线
+# - >   虚线
+# .->   点虚线
+# ..->  点点虚线[手动微笑]
+# = >   有空格的实线
+
+[ problem solving or\n computational thinking ] => [ problem decomposition ], [ algorithms ], [ abstraction ]
+
+[ problem decomposition ] -> [ feature selection ], [ problem refinement ], [ temporal decomposition ], [ experiential decomposition ], [ spatial decomposition ], [ case-based decomposition ]
+[ experiential decomposition ] .> [ observe ], [ play ], [ describe ]
+
+# [ algorithms ]
+[ abstraction ] -> [ solution generalization ], [ using templates ], [ control abstraction ], [ data abstraction ]
